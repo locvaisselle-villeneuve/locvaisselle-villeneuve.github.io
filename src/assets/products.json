@@ -1,0 +1,328 @@
+{
+  "Assiettes": {
+    "Assiette_ronde": {
+      "price": 0.2,
+      "description": "Ø 24cm",
+      "image": "/products/assiettes/assiette-8-510x510-2.jpg"
+    },
+    "Assiette_ronde_dessert": {
+      "price": 0.2,
+      "description": "Ø 20.5cm",
+      "image": "/products/assiettes/assiette-5-510x510.jpg"
+    },
+    "Assiette_ovale": {
+      "price": 0.2,
+      "description": "Ø 27cm",
+      "image": "/products/assiettes/assiette-1-510x510.jpg"
+    },
+    "Assiette_ovale dessert": {
+      "price": 0.2,
+      "description": "Ø 21cm",
+      "image": "/products/assiettes/assiette-1-510x510.jpg"
+    },
+    "Assiette_carrée": {
+      "price": 0.3,
+      "description": "Ø 27cm",
+      "image": "/products/assiettes/assiette-2-510x510.jpg"
+    },
+    "Assiette_vague": {
+      "price": 0.25,
+      "description": "Ø 25cm",
+      "image": "/products/assiettes/assiette-3-510x510.jpg"
+    },
+    "Assiette_motif": {
+      "price": 0.2,
+      "description": "Ø 27cm",
+      "image": "/products/assiettes/assiette-4-510x510.jpg"
+    },
+    "Assiette_mofit_à_dessert": {
+      "price": 0.2,
+      "description": "Ø 19cm",
+      "image": "/products/assiettes/assiette-dessertmotif-1-510x510.jpg"
+    },
+    "Assiette_transparente_dessert": {
+      "price": 0.2,
+      "description": "Ø 19cm",
+      "image": "/products/assiettes/assiette6-1-510x510.jpg"
+    },
+    "Assiette_à_soupe": {
+      "price": 0.2,
+      "description": "Ø 22cm",
+      "image": "/products/assiettes/assiette-soupe-510x510.jpg"
+    }
+  },
+  "Verres": {
+    "Verre_élégance_19cl": {
+      "price": 0.2,
+      "description": "",
+      "image": "/products/verres/verre1-510x510.jpg"
+    },
+    "Verre_élégance_24cl": {
+      "price": 0.2,
+      "description": "",
+      "image": "/products/verres/verre1-510x510.jpg"
+    },
+    "Flûte_15cl": {
+      "price": 0.25,
+      "description": "",
+      "image": "/products/verres/verre3-510x510.jpg"
+    },
+    "Verre_enfant": {
+      "price": 0.2,
+      "description": "",
+      "image": "/products/verres/verre4-510x510.jpg"
+    },
+    "Verre_dégustation_33cl": {
+      "price": 0.25,
+      "description": "",
+      "image": "/products/verres/verredegustation33-510x510.jpg"
+    },
+    "Verre_viticole_24cl": {
+      "price": 0.22,
+      "description": "",
+      "image": "/products/verres/verreviticole-510x510.jpg"
+    },
+    "Verre tulipe 22cl": {
+      "price": 0.25,
+      "description": "",
+      "image": "/products/verres/verrejus-510x510.jpg"
+    },
+    "Petit verre jus de fruit": {
+      "price": 0.2,
+      "description": "",
+      "image": "/products/verres/verre-petit-jus2.jpg"
+    }
+  },
+  "Couverts": {
+    "Couverts_champêtres": {
+      "price": 0.20,
+      "description": "Prix à l'unité",
+      "image": "/products/couverts/couvert-1-510x510.jpg",
+      "variants": ["fourchettes", "cuillères", "couteaux"]
+    },
+    "Couverts_festifs": {
+      "price": 0.25,
+      "description": "Prix à l'unité",
+      "image": "/products/couverts/couvert-4-510x510.jpg",
+      "variants": ["fourchettes", "cuillères", "couteaux"]
+    },
+    "Couverts_à_dessert": {
+      "price": 0.2,
+      "description": "Prix à l'unité",
+      "image": "/products/couverts/couvert-6-510x510.jpg",
+      "variants": ["fourchettes", "couteaux"]
+    },
+    "Couverts_à_poisson": {
+      "price": 0.2,
+      "description": "Prix à l'unité",
+      "image": "/products/couverts/couevrtdessert-510x510.jpg",
+      "variants": ["fourchettes", "couteaux"]
+    },
+    "Cuillere à soupe": {
+      "price": 0.2,
+      "description": "Prix à l'unité",
+      "image": "/products/couverts/cuillere-à-soupe2.jpg"
+    }
+  },
+  "Desserts_et_café": {
+    "Tasse_champêtre": {
+      "price": 0.15,
+      "description": "",
+      "image": "/products/desserts_cafe/tasses-champêtre.png"
+    },
+    "Tasse_festive_sans_sous-tasse": {
+      "price": 0.2,
+      "description": "",
+      "image": "/products/desserts_cafe/tasses-festives-sans-sous-tasses.png"
+    },
+    "Tasse_festive avec sous‑tasse": {
+      "price": 0.3,
+      "description": "",
+      "image": "/products/desserts_cafe/tasses-festives-avec-sous‑tasses.jpg"
+    },
+    "Tasse à thé": {
+      "price": 0.3,
+      "description": "",
+      "image": "/products/desserts_cafe/tasse-a-the.png"
+    },
+    "Mini_ramequin": {
+      "price": 0.2,
+      "description": "",
+      "image": "/products/desserts_cafe/ramequin1-1-510x510.jpg"
+    },
+    "Coupelle": {
+      "price": 0.3,
+      "description": "",
+      "image": "/products/desserts_cafe/ramequin2-510x510.jpg"
+    }
+  },
+  "Accessoires_pour_la_table": {
+    "Plat_gastro_sans_couvercle": {
+      "price": 3,
+      "description": "",
+      "image": "/products/accessoires/plat-gastro-sans-couvercle.jpg"
+    },
+    "Plat_gastro_avec couvercle": {
+      "price": 4,
+      "description": "",
+      "image": "/products/accessoires/platgastro-1-510x510.jpg"
+    },
+    "Seau_à_champagne": {
+      "price": 2,
+      "description": "",
+      "image": "/products/accessoires/panier-2-510x510.jpg"
+    },
+    "Panière": {
+      "price": 0.2,
+      "description": "",
+      "image": "/products/accessoires/panier-1-510x510.jpg"
+    },
+    "Pot_à_eau": {
+      "price": 0.5,
+      "description": "",
+      "image": "/products/accessoires/pot-a-eau-510x510.jpg"
+    },
+    "Saladier": {
+      "price": 0.5,
+      "description": "",
+      "image": "/products/accessoires/saladier-510x510.jpg"
+    },
+    "Couverts_à_salade": {
+      "price": 0.5,
+      "description": "",
+      "image": "/products/accessoires/couvert-salade-510x510.jpg"
+    },
+    "Pelle gateau": {
+      "price": 0.5,
+      "description": "",
+      "image": "/products/accessoires/pelle-gateau.png"
+    },
+    "Cuillere service": {
+      "price": 0.5,
+      "description": "",
+      "image": "/products/accessoires/cuillere-service.png"
+    },
+    "Pince de service": {
+      "price": 0.5,
+      "description": "",
+      "image": "/products/accessoires/pince-de-service.png"
+    },
+    "Coupe-pain inox": {
+      "price": 10,
+      "description": "",
+      "image": "/products/accessoires/coupe-pain-inox.png"
+    }
+  },
+  "Mobiliers_et_machines": {
+    "Chapiteau pliable 3x6. Compris paroie latèrale modulable": {
+      "price": 100,
+      "description": "Prix à l'unité week-end",
+      "image": "/products/mobiliers_machines/chapiteaux-pliable-3x6-2.jpg"
+    },
+    "Chapiteau pliable 3x3. Compris paroie latèrale modulable": {
+      "price": 70,
+      "description": "Prix à l'unité week-end",
+      "image": "/products/mobiliers_machines/chapiteaux-pliable-3x3.jpg"
+    },
+    "Lampe chapiteau": {
+      "price": 10,
+      "description": "",
+      "image": "/products/mobiliers_machines/lampe-chapiteau.png"
+    },
+    "Chauffage chaiteau": {
+      "price": 10,
+      "description": "",
+      "image": "/products/mobiliers_machines/chauffage-chaiteau.png"
+    },
+    "Chaise plastique robuste": {
+      "price": 1.7,
+      "description": "",
+      "image": "/products/mobiliers_machines/chaise-plastique-robuste.jpg"
+    },
+    "Table pliante rectangulaire 183cm 6/8 personnes": {
+      "price": 7,
+      "description": "",
+      "image": "/products/mobiliers_machines/Table-pliante-rectangulaire-183cm-6-8-personnes.jpg"
+    },
+    "Mange_debout_80cm_avec_housse_blanc": {
+      "price": 13,
+      "description": "",
+      "image": "/products/mobiliers_machines/mange-debout-blanc-avec-housse.jpg"
+    },
+    "Mange_debout_80cm_avec_housse_noir": {
+      "price": 12,
+      "description": "",
+      "image": "/products/mobiliers_machines/mange-debout-avec-housse.jpg"
+    },
+    "Mange_debout_sans_housse": {
+      "price": 7,
+      "description": "",
+      "image": "/products/mobiliers_machines/table-510x510.jpg"
+    },
+    "Mange-debout pliant noir 85cm avec housse": {
+      "price": 15,
+      "description": "",
+      "image": "/products/mobiliers_machines/mange-debout-avec-housse.jpg"
+    },
+    "Mange-debout pliant noir 85cm sans housse": {
+      "price": 10,
+      "description": "",
+      "image": "/products/mobiliers_machines/Mange-debout-pliant2.jpg"
+    },
+    "Machine_à_café pour 100 tasses": {
+      "price": 15,
+      "description": "",
+      "image": "/products/mobiliers_machines/machine-cxafe-510x510.jpg"
+    },
+    "Machine_réfrigirante_2x8_L": {
+      "price": 30,
+      "description": "",
+      "image": "/products/mobiliers_machines/machineaboisson-510x510.jpg"
+    },
+    "Machine_réfrigirante_2x16_L": {
+      "price": 40,
+      "description": "",
+      "image": "/products/mobiliers_machines/machineaboisson-510x510.jpg"
+    },
+    "Machine_réfrigirante_45_L": {
+      "price": 50,
+      "description": "",
+      "image": "/products/mobiliers_machines/machineaboisson2-510x510.jpg"
+    },
+    "Grand étuve (max. 200 personnes)": {
+      "price": 100,
+      "description": "Comprend que les grilles",
+      "image": "/products/mobiliers_machines/grandetuvemobile.jpg"
+    },
+    "Étuve (max. 100 personnes)": {
+      "price": 70,
+      "description": "Comprend que les grilles",
+      "image": "/products/mobiliers_machines/etuvemobile.png"
+    },
+    "Appareil à hot dog": {
+      "price": 25,
+      "description": "",
+      "image": "/products/mobiliers_machines/appareil-hotdog.jpg"
+    },
+    "Plancha gaz 60x40": {
+      "price": 40,
+      "description": "",
+      "image": "/products/mobiliers_machines/plancha-gaz.jpg"
+    },
+    "Plaque induction pro": {
+      "price": 20,
+      "description": "",
+      "image": "/products/mobiliers_machines/plaque-induction-pro.jpg"
+    },
+    "Machine à glacon de comptoir": {
+      "price": 20,
+      "description": "",
+      "image": "/products/mobiliers_machines/machine-a-glacon.jpg"
+    },
+    "Trancheuse 150W": {
+      "price": 15,
+      "description": "",
+      "image": "/products/mobiliers_machines/trancheuse.webp"
+    }
+  }
+}
