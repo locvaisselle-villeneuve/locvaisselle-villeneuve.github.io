@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy to GitHub Pages (Custom Domain)
 
 on:
   push:
@@ -33,6 +33,13 @@ jobs:
       - name: Build
         run: yarn build
 
+      - name: Add CNAME for custom domain
+        run: echo "locationvaissellevilleneuve.fr" > dist/CNAME
+
+      # Recommended if you use react-router-dom (SPA) and want refresh/deep links to work
+      - name: SPA fallback (404.html)
+        run: cp dist/index.html dist/404.html
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -45,6 +52,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy to GitHub Pages
+      - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
