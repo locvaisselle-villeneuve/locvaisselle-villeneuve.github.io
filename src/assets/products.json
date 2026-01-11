@@ -115,20 +115,20 @@
     "Couverts_à_poisson": {
       "price": 0.2,
       "description": "Prix à l'unité",
-      "image": "/products/couverts/couevrtdessert-510x510.jpg",
+      "image": "/products/couverts/couvertdessert-510x510.jpg",
       "variants": ["fourchettes", "couteaux"]
     },
     "Cuillere à soupe": {
       "price": 0.2,
       "description": "Prix à l'unité",
-      "image": "/products/couverts/cuillere-à-soupe2.jpg"
+      "image": "/products/couverts/cuillere-a-soupe.jpg"
     }
   },
   "Desserts_et_café": {
     "Tasse_champêtre": {
       "price": 0.15,
       "description": "",
-      "image": "/products/desserts_cafe/tasses-champêtre.png"
+      "image": "/products/desserts_cafe/tasses-champetre.png"
     },
     "Tasse_festive_sans_sous-tasse": {
       "price": 0.2,
